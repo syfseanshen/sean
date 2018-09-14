@@ -2,7 +2,7 @@
 =================
 ## Specification
 -----------------
-This is a Double resource calculation.
+This is a Double resource calculation.<br>
 You have to give a space when you input the numbers or X within brackets, like,
 calc (X - 2) = 0 or calc (2X + 6) = 3.
 Don't input like this type:
